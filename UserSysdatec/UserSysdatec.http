@@ -1,6 +1,6 @@
 @UserSysdatec_HostAddress = http://localhost:5009
 
-GET {{UserSysdatec_HostAddress}}/weatherforecast/
+GET {{UserSysdatec_HostAddress}}/users/
 Accept: application/json
 
 ###
